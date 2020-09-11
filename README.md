@@ -1,2 +1,3 @@
 # Othello-Cpp
 This project asks you to implement an artificial intelligence for a game called Othello. Othello (also known as Reversi) is a well-known two-player strategy game.
+The game is played on a square board divided into a grid — usually 8x8, though the size of the grid can vary. Players alternately place tiles on the game board; one player's tiles are black and the other player's are white. When tiles are placed on the game board, other tiles already on the board are flipped (i.e., a black tile becomes a white tile or vice versa). The game concludes when every cell in the grid contains a tile, or when neither player is able to make a legal move; the winning player is the one who has more tiles on the board at the end of the game.
